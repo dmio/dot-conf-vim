@@ -3,6 +3,7 @@ set t_Co=256
 set sw=4 ts=4 sts=4 et
 set background=dark
 set autoindent
+filetype plugin on
 filetype indent on
 syntax on
 hi Search term=reverse ctermfg=0 ctermbg=11 guifg=Black guibg=Yellow
